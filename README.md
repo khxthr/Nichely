@@ -263,13 +263,3 @@ graph TD
     rm -rf node_modules .next package-lock.json
     npm install
     ```
-
----
-
-## 🗺️ Future Improvements Roadmap
-
-*   [ ] **FastAPI Integration**: Create the async Python API backend.
-*   [ ] **Agentic Framework**: Implement the Multi-Agent orchestrations using LangGraph or AutoGen.
-*   [ ] **Social Data Scraping**: Connect live Reddit API integrations with fallback datasets for resilient research.
-*   [ ] **Interactive Data Charts**: Embed charting libraries (like recharts or Plotly) to visualize niche growth trends.
-*   [ ] **User Database**: Implement database persistence layer for saving generated niche ideas.
